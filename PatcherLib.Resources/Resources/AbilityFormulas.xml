@@ -20,7 +20,7 @@
 <AbilityFormulas>
   <Ability value="00">Dmg_[Weapon] PE</Ability>
   <Ability value="01">Dmg_[Weapon] PE</Ability>
-  <Ability value="02">Dmg_[Weapon] 25% Cast Spell Indexed As Status NS PE</Ability>
+  <Ability value="02">Dmg_[Weapon] 19% Cast Spell Indexed As Status NS PE</Ability>
   <Ability value="03">Dmg_(WP^2) NS NE</Ability>
   <Ability value="04">Casts Ice, Fire, Bolt 1/2/3 depending on elemental NS NE</Ability>
   <Ability value="05">Dmg_[Weapon] PE</Ability>
